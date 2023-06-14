@@ -1,7 +1,7 @@
 Sync script can be used for synchronization two folders, source folder and replica folder at a spefic interval of time.
 Synchronization will be one-way, replica folder will be modified to exactly match content of the source folder.
 The script will sync not only files but nested dirs also.
-All operations are stored to log files and print to the console output.
+All operations are stored to log files and printed to the console output.
 
 How to use sync script from CLI
 
