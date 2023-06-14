@@ -17,6 +17,10 @@ Python version: 3.6 or above
 
 Tested on:
 
+Chassis: vm
+
+Virtualization: vmware
+
 Operating System: CentOS Linux 7 (Core)
 
 Kernel: Linux 3.10.0-1160.71.1.el7.x86_64
