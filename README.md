@@ -12,3 +12,4 @@ There are 4 positional args:
 4. time interval in minutes: positive integer
 
 Example: python sync.py /source /replica /file.log 1
+Python version: 3.6 or above
