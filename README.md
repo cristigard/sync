@@ -14,3 +14,9 @@ There are 4 positional args:
 Example: python3 sync.py /source /replica /file.log 1
 
 Python version: 3.6 or above
+
+Tested on:
+Operating System: CentOS Linux 7 (Core)
+CPE OS Name: cpe:/o:centos:centos:7
+Kernel: Linux 3.10.0-1160.71.1.el7.x86_64
+Architecture: x86-64
