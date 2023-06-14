@@ -8,7 +8,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # check if all cli args was given
-if len(sys.argv) < 5:
+if len(sys.argv) != 5:
     print('You must provide 4 postional args to sync script:\n'
           'First: Source dir path\n'
           'Second: Replica dir path\n'
